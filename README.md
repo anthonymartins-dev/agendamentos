@@ -4,6 +4,10 @@ Sistema de marcações para negócios com atendimento por hora (cabeleireiros, b
 clínicas, explicações). Agenda visual em vista de dia e de semana, com horários livres
 calculados em tempo real. Projeto 3 de uma série de 6 ferramentas para pequenos negócios.
 
+**Demonstração online:** https://agendamentos-vert-omega.vercel.app
+
+A API gratuita adormece quando ninguém a usa: no primeiro acesso pode demorar cerca de 30 segundos a acordar. Os dados são de demonstração e qualquer pessoa os pode alterar.
+
 ## Funcionalidades
 
 - Agenda por **dia** (uma coluna por profissional) e por **semana** (um profissional, sete dias)
