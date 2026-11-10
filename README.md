@@ -8,6 +8,8 @@ calculados em tempo real. Projeto 3 de uma série de 6 ferramentas para pequenos
 
 A API gratuita adormece quando ninguém a usa: no primeiro acesso pode demorar cerca de 30 segundos a acordar. Os dados são de demonstração e qualquer pessoa os pode alterar.
 
+![Captura de ecrã](docs/painel.png)
+
 ## Funcionalidades
 
 - Agenda por **dia** (uma coluna por profissional) e por **semana** (um profissional, sete dias)
